@@ -30,5 +30,5 @@
 
 ### 📬 Let's Connect!
 
-- **LinkedIn:** https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alexandre-cardoso-fontenele-b0a781175/
+- **LinkedIn:** https://www.linkedin.com/in/alexandre-cardoso-fontenele-b0a781175/
 - **Email:** imalexfonte@gmail.com
