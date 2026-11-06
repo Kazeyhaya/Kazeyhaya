@@ -23,9 +23,10 @@
 
 ### 📊 GitHub Stats
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazeyhaya&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeyhaya&layout=compact&theme=dark)
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazeyhaya&show_icons=true&theme=dark" alt="Alexandre's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeyhaya&layout=compact&theme=dark" alt="Top Langs" />
+</div>
 ---
 
 ### 📬 Let's Connect!
